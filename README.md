@@ -1,4 +1,4 @@
-Key Functionalities
+# Key Functionalities
 
 Signup Form:
 
@@ -30,7 +30,7 @@ Uses try-catch blocks to handle database and runtime errors, showing descriptive
 
 
 
-How It Works
+# How It Works
 
 User Signup:
 
